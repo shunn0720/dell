@@ -1,2 +1,2 @@
 discord.py[voice]
-pytz==2023.3
+pytz==2025.1
